@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-85-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-117-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -7,16 +7,21 @@
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    54 mins             ████████████████████████░   98.89% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.03% 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Browser                  54 mins             ████████████████████████░   98.89% 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.11%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+show                     53 mins             ████████████████████████░   97.57% 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.35% 
+xdoer                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      55 mins             █████████████████████████   100.0%
 
 ```
 
