@@ -1,16 +1,6 @@
 <!--START_SECTION:waka-->
-**🐱 My Github Data** 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-85-blue)
 
-> 🏆 789 Contributions in the Year 2021
- > 
-> 📦 176.3 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 29 Public Repositories 
- > 
-> 🔑 1 Private Repository 
- > 
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -39,10 +29,6 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/xdoer/xdoer/main/charts/bar_graph.png) 
 
 
  Last Updated on 01/09/2021
