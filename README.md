@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -33,5 +33,5 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 19/01/2022
+ Last Updated on 20/01/2022 22:10:10 UTC
 <!--END_SECTION:waka-->
