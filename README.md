@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -25,13 +25,13 @@ Mac                      40 hrs 20 mins      ███████████�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               14 repos            ████████████████░░░░░░░░░   66.67% 
-JavaScript               5 repos             ██████░░░░░░░░░░░░░░░░░░░   23.81% 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.52%
+TypeScript               15 repos            █████████████████░░░░░░░░   68.18% 
+JavaScript               5 repos             █████░░░░░░░░░░░░░░░░░░░░   22.73% 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
 
 ```
 
 
 
- Last Updated on 30/01/2022 22:09:52 UTC
+ Last Updated on 31/01/2022 22:09:54 UTC
 <!--END_SECTION:waka-->
