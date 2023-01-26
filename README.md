@@ -9,13 +9,13 @@
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    21 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Browser                  21 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      21 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -30,5 +30,5 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 25/01/2023 22:10:31 UTC
+ Last Updated on 26/01/2023 22:09:58 UTC
 <!--END_SECTION:waka-->
