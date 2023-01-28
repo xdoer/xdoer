@@ -9,13 +9,15 @@
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    13 mins             ██████████████████████░░░   90.55% 
+TypeScript               1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   9.45%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Browser                  13 mins             ██████████████████████░░░   90.55% 
+VS Code                  1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   9.45%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      15 mins             █████████████████████████   100.0%
 
 ```
 
@@ -30,5 +32,5 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 27/01/2023 22:09:56 UTC
+ Last Updated on 28/01/2023 22:09:11 UTC
 <!--END_SECTION:waka-->
