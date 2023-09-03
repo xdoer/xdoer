@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C090%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C090%20hrs%2038%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -9,7 +9,7 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    22 hrs 49 mins      ████████████████░░░░░░░░░   65.52 % 
+Other                    22 hrs 49 mins      ████████████████░░░░░░░░░   65.53 % 
 TypeScript               7 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   22.79 % 
 JavaScript               1 hr 59 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
 JSON                     1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
@@ -34,5 +34,5 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 02/09/2023 22:07:20 UTC
+ Last Updated on 03/09/2023 22:07:38 UTC
 <!--END_SECTION:waka-->
