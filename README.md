@@ -9,15 +9,13 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               12 mins             ███████████████████████░░   91.81 % 
-JSON                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   13 mins             █████████████████████████   99.63 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -31,5 +29,5 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 07/02/2025 22:10:40 UTC
+ Last Updated on 08/02/2025 22:09:54 UTC
 <!--END_SECTION:waka-->
