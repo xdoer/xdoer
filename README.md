@@ -1,6 +1,4 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%2C432%20hrs%2018%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I Mostly Code in TypeScript** 
@@ -14,5 +12,5 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 02/10/2025 22:11:50 UTC
+ Last Updated on 03/10/2025 22:11:11 UTC
 <!--END_SECTION:waka-->
