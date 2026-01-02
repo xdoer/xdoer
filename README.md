@@ -1,26 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%2C774%20hrs%205%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-TypeScript               35 hrs 35 mins      ██████████████████████░░░   86.53 % 
-JSON                     3 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
-JavaScript               1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-TSConfig                 23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
-CSS                      19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-
-🔥 Editors: 
-VS Code                  41 hrs 7 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      41 hrs 7 mins       █████████████████████████   100.00 % 
-```
 
 **I Mostly Code in TypeScript** 
 
@@ -33,5 +12,5 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 01/01/2026 22:13:50 UTC
+ Last Updated on 02/01/2026 22:14:17 UTC
 <!--END_SECTION:waka-->
