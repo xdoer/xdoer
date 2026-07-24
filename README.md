@@ -7,18 +7,18 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               10 hrs 42 mins      ██████████░░░░░░░░░░░░░░░   41.89 % 
-Markdown                 7 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   30.72 % 
-JSON                     4 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
-Other                    55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
-JavaScript               34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+TypeScript               9 hrs 24 mins       ██████████░░░░░░░░░░░░░░░   38.35 % 
+Markdown                 7 hrs               ███████░░░░░░░░░░░░░░░░░░   28.54 % 
+JSON                     4 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
+JavaScript               1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+Other                    53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
 
 🔥 Editors: 
-VS Code                  25 hrs 25 mins      █████████████████████████   99.48 % 
-Qoder                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+VS Code                  23 hrs 55 mins      ████████████████████████░   97.50 % 
+Qoder                    36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 
 💻 Operating System: 
-Mac                      25 hrs 33 mins      █████████████████████████   100.00 % 
+Mac                      24 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -32,5 +32,5 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 23/07/2026 22:49:36 UTC
+ Last Updated on 24/07/2026 22:55:17 UTC
 <!--END_SECTION:waka-->
