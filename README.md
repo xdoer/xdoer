@@ -1,4 +1,6 @@
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-9%2C395%20hrs%204%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
@@ -7,18 +9,18 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               9 hrs 24 mins       ██████████░░░░░░░░░░░░░░░   38.35 % 
-Markdown                 7 hrs               ███████░░░░░░░░░░░░░░░░░░   28.54 % 
-JSON                     4 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
-JavaScript               1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
-Other                    53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+TypeScript               9 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   32.97 % 
+Markdown                 8 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   29.27 % 
+JSON                     5 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
+JavaScript               3 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+Other                    55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
 
 🔥 Editors: 
-VS Code                  23 hrs 55 mins      ████████████████████████░   97.50 % 
-Qoder                    36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+VS Code                  29 hrs 36 mins      ████████████████████████░   97.97 % 
+Qoder                    36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
 
 💻 Operating System: 
-Mac                      24 hrs 32 mins      █████████████████████████   100.00 % 
+Mac                      30 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -32,5 +34,5 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 22:55:17 UTC
+ Last Updated on 25/07/2026 22:45:17 UTC
 <!--END_SECTION:waka-->
