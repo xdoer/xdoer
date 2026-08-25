@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C546%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C550%20hrs%2055%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-369%20hrs%2050%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-372%20hrs%2051%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -11,41 +11,41 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               15 hrs 2 mins       ████████████░░░░░░░░░░░░░   49.12 % 
-Markdown                 5 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
-JSON                     4 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
-JavaScript               2 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
-Other                    54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+TypeScript               14 hrs 36 mins      ██████████████░░░░░░░░░░░   54.73 % 
+Markdown                 4 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+JSON                     4 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+JavaScript               1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+Other                    42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
 
 🔥 Editors: 
-VS Code                  30 hrs 37 mins      █████████████████████████   99.97 % 
+VS Code                  26 hrs 40 mins      █████████████████████████   99.97 % 
 Qoder                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Mac                      30 hrs 38 mins      █████████████████████████   100.00 % 
+Mac                      26 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 2 mins (62.17%)
+⏱ AI Coding Time: 16 hrs 26 mins (61.59%)
 
-✍️ 26,316 lines written by AI, 5,604 lines written by hand (82.44% AI-written)
+✍️ 20,216 lines written by AI, 5,371 lines written by hand (79.01% AI-written)
 
-🔤 17,639,883 Input Tokens, 2,124,647 Output Tokens
+🔤 18,662,574 Input Tokens, 1,556,594 Output Tokens
 
-💵 $149.02 Estimated AI Cost This Week
+💵 $125.35 Estimated AI Cost This Week
 
-🧠 100 AI Sessions, 123 AI Prompts
+🧠 82 AI Sessions, 107 AI Prompts
 
-Qoder                    27,607 lines        █████████████████████████   99.97 % 
-Glm                      9 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Qoder                    21,412 lines        █████████████████████████   99.96 % 
+Glm                      9 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 82.44% of written lines came from AI
-📝 Concise Prompter — average 431 characters per prompt
+🤖 AI-Driven — 79.01% of written lines came from AI
+📝 Concise Prompter — average 189 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 27.67% of changed lines were hand-edited
+🚀 High AI Trust — 32.1% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -59,5 +59,5 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 24/08/2026 22:17:54 UTC
+ Last Updated on 25/08/2026 22:18:05 UTC
 <!--END_SECTION:waka-->
