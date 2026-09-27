@@ -11,39 +11,39 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               21 hrs 39 mins      █████████████████░░░░░░░░   66.54 % 
-Other                    2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
-JSON                     1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
-Image (png)              1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
-Markdown                 1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+TypeScript               13 hrs 6 mins       ████████████████░░░░░░░░░   64.38 % 
+Other                    2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
+Markdown                 1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
+JSON                     1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
+JavaScript               1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
 
 🔥 Editors: 
-VS Code                  32 hrs 32 mins      █████████████████████████   100.00 % 
+VS Code                  20 hrs 22 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      32 hrs 32 mins      █████████████████████████   100.00 % 
+Mac                      20 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 hrs 6 mins (64.84%)
+⏱ AI Coding Time: 10 hrs 4 mins (49.46%)
 
-✍️ 64,948 lines written by AI, 1,963 lines written by hand (97.07% AI-written)
+✍️ 25,956 lines written by AI, 1,320 lines written by hand (95.16% AI-written)
 
-🔤 31,992,949 Input Tokens, 2,900,210 Output Tokens
+🔤 11,850,279 Input Tokens, 1,945,924 Output Tokens
 
-💵 $248.91 Estimated AI Cost This Week
+💵 $120.02 Estimated AI Cost This Week
 
-🧠 53 AI Sessions, 57 AI Prompts
+🧠 35 AI Sessions, 44 AI Prompts
 
-Qoder                    65,137 lines        █████████████████████████   100.00 % 
+Qoder                    25,977 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.07% of written lines came from AI
-📄 Detailed Prompter — average 515 characters per prompt
+🤖 AI-Driven — 95.16% of written lines came from AI
+📄 Detailed Prompter — average 651 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 4.15% of changed lines were hand-edited
+🚀 High AI Trust — 6.94% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -57,5 +57,5 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 26/09/2026 00:18:24 UTC
+ Last Updated on 27/09/2026 00:05:35 UTC
 <!--END_SECTION:waka-->
