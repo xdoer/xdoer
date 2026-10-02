@@ -11,39 +11,19 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               3 hrs 38 mins       ███████████████░░░░░░░░░░   60.84 % 
-JSON                     48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-JavaScript               37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
-Other                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
-Text                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  5 hrs 58 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      5 hrs 58 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 45 mins (62.77%)
-
-✍️ 8,805 lines written by AI, 54 lines written by hand (99.39% AI-written)
-
-🔤 4,345,351 Input Tokens, 1,088,162 Output Tokens
-
-💵 $57.92 Estimated AI Cost This Week
-
-🧠 18 AI Sessions, 2 AI Prompts
-
-Qoder                    8,805 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.39% of written lines came from AI
-📝 Concise Prompter — average 30 characters per prompt
-🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 1.91% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -57,5 +37,5 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 01/10/2026 00:58:05 UTC
+ Last Updated on 02/10/2026 01:13:09 UTC
 <!--END_SECTION:waka-->
